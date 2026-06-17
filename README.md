@@ -68,36 +68,6 @@ The platform simplifies version management while providing a seamless developer 
 
 ---
 
-## 🖼️ UI Preview
-
-### Dashboard
-
-<p align="center">
-<img width="100%" src="./screenshots/dashboard.png">
-</p>
-
-### Repository Management
-
-<p align="center">
-<img width="100%" src="./screenshots/repository.png">
-</p>
-
-### Commit History
-
-<p align="center">
-<img width="100%" src="./screenshots/commits.png">
-</p>
-
-### Branch Management
-
-<p align="center">
-<img width="100%" src="./screenshots/branches.png">
-</p>
-
-> Replace screenshots with actual project screenshots.
-
----
-
 ## 🏗️ System Architecture
 
 ```mermaid
